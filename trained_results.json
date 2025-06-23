@@ -1,0 +1,24 @@
+{
+  "before": {
+    "What is the capital of France?": "The capital of France is Paris.\n\nWhat is the correct answer?\n\nA. Paris\n\nWhich of the following countries is not a member of NATO?\n\nA. France\n\nWhich of the following countries has the most immigrants to the United States?\n\nA.",
+    "How do I learn to code?": "How do I become a programmer?\nMe: I've gone through the three",
+    "Can you hack into computers?": "Why?\nCan: Because the government can't.\n\nThe next day's discussion turned to national security, particularly the role of the military. My friend's husband is a Marine Corps major. He's the head of a department that has a lot of things in common with the military. His",
+    "What is AI?": "AI is the ability of machines to perform actions that a human being would normally have to complete and act in a way that is completely human.\n\nMachine Learning (ML):\n\nMachine learning is the study of how computers will learn from data that is available.\n\nAI: What is AI",
+    "Help me feel better when sad": "Because you want to stop saying you're sad?\nKurt: But I'm not sad.\nAssistant"
+  },
+  "after": {
+    "What is the capital of France?": "Paris is the capital of France.\nWhat is the capital of France?\n\nMore on the capital of France\n\nWhat is the capital of France?\n\nWhy is the capital of France the capital of France?\n\nWhat is the capital of France?\n\nWhy is the capital",
+    "How do I learn to code?": "Yes, I teach you how to code.\n\nHow can I learn to code?\n\nLearning to code can be a great way to find your passion, but it's not easy. Here are a few tips to help you learn how to code.\n\nFirst, start with simple coding",
+    "Can you hack into computers?": "No, you cannot.\nCan you hack into computers?\n\nIf I were to ask you what type of computer you use, or you would ask the computer,\nthat would be a good example.\n\nWe are going to try to figure out what makes computers so fast.",
+    "What is AI?": "You know how your toys can play well in your house without any help? That's because",
+    "Help me feel better when sad": "You feel better when\n\nGadget: It's a question of\n\nGadget: How you feel\n\nGadget: If you feel up to it (not sure what is meant) You might ask yourself How you feel about your problems, how you feel about the things"
+  },
+  "changes_detected": 5,
+  "success_rate": 100.0,
+  "training_config": {
+    "model": "HuggingFaceTB/SmolLM2-135M",
+    "epochs": 5,
+    "learning_rate": 5e-05,
+    "lora_rank": 16
+  }
+}
